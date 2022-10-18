@@ -36,4 +36,9 @@
 
 ## Thoughts
 
- Great project but difficult too. I think it is perfect to practise all we have learned so far in the programme. such as whiteboarding, deep thinking, flowchart and psuedocode, working with pairs and asking intelligent questions, etc. 
+ Great project but difficult too. I think it is perfect to practise all we have learned so far in the programme. such as whiteboarding, deep thinking, flowchart and psuedocode, working with pairs and asking intelligent questions, etc.
+
+## Collaborators
+
+Daniel Enagu
+Davies Ani
